@@ -1,0 +1,39 @@
+{
+  "name": "consequaturaut",
+  "version": "1.10.0",
+  "description": "common javascript utils that can be required selectively that assume es5+",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JensenBotsford/consequaturaut.git"
+  },
+  "keywords": [
+    "omnis",
+    "js",
+    "helpers",
+    "ratione",
+    "pick",
+    "et",
+    "quos",
+    "array",
+    "assumenda",
+    "string"
+  ],
+  "author": "ReidTurner",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JensenBotsford/consequaturaut.git/issues"
+  },
+  "devDependencies": {
+    "lab": "^3.2.1"
+  },
+  "dependencies": {
+    "clone": "^0.1.18",
+    "coveralls": "^2.11.2",
+    "deep-eql": "^0.1.3",
+    "extend": "^1.3.0",
+    "keypather": "^1.7.5",
+    "lab": "^4.6.2",
+    "velitut": "^1.1.0"
+  }
+}
